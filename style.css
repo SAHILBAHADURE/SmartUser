@@ -1,0 +1,50 @@
+
+			body{
+			background-color:black;
+			}
+			#mainlogo{
+			font-size:36px;
+			letter-spacing:3px;
+			font-family: 'Sura', serif;
+
+			}
+			#mainscreen{
+			background-image:url(a.jpeg);
+			height:100%;
+			width:100%;
+			}
+			
+			.demo-list-three {
+			width: 650px;
+			}
+			
+			
+			#arrange{
+			padding-left:160px;
+			padding-top:10px;
+			}
+			.top{
+			margin-top:10px;
+			}
+			.dropdown{
+				padding-left:10px;
+				padding-top:20px;
+			}
+			#foot{
+			margin-top:100px;
+			}
+			.jumbotron
+			{
+				background-color:white;
+			}
+			
+			
+			.demo-layout-transparent {
+ 
+}
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
